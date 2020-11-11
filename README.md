@@ -8,7 +8,7 @@ discovery of knowledge from a data set.
 
 ## Meeting Times
 
-Mon, Wed, Fri 09:00-09:50, Online
+Mon, Wed, Fri 09:00-09:50, [Online](https://www.google.com/url?q=https://us04web.zoom.us/j/74532365028?pwd%3DV3hOV040Q1d2VFA0SThkUDlxNVp3Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0S8d9uRPfR6jww-I0UsAD)
 
 ## Instructor
 
@@ -16,9 +16,9 @@ David L. Millman, Ph.D.
 
 **Email**: david.millman@montana.edu
 
-**Office hours**: **TODO**
+**Office hours**: Mon 14:00-14:50 of Fri 12:00-12:50 on [webex](https://montana.webex.com/join/c54s194)
 
-**Office**: **TODO**
+**Office**: Off campus until further notice
 
 **Github**: [dlm](https://github.com/dlm)
 
@@ -35,7 +35,7 @@ After successfully completing this course, students will be able to:
 - [Zoom](https://zoom.us)
 - [Miro](https://miro.com)
 - Collaboration device (e.g. [Wacom one pen
-  table](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom)
+  tablet](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom))
 
 ## Textbook
 
@@ -43,7 +43,7 @@ Required:
 
 * [Data Mining and Machine Learning: Fundamental Concepts and Algorithms, 2nd
 Edition](https://dataminingbook.info/book_html/) by Mohammed J. Zaki, Wagner
-Meira, Jr.,
+Meira, Jr., (DM below)
 
 
 Optional and highly recommended:
@@ -80,23 +80,92 @@ The lecture schedule is subject to change throughout the semester, but here is
 the current plan. Assignments and due dates will be updated as they're assigned
 in class.
 
+You can access the folders for
+[Videos](https://montana.box.com/v/csci-550-fall2020) and [Notes](./notes/).
+File names are the date of the lecture.
+Videos are hosted on MSU's Box and notes are in this repository.
+See below for specific links.
+
 ### Aug
 
-| Date  | Description                                  | Assigned                           | Due                                   | Reading       | Links                                                | Video |
-|-------|----------------------------------------------|------------------------------------|---------------------------------------|---------------|------------------------------------------------------|-------|
-| 08/17 | [Intro](.)                                   |                                    |                                       |               | [miro](https://miro.com/app/board/o9J_knKraI4=/)     |       |
+| Date  | Description                                   | Assigned                           | Due                                   | Reading       | Links                                                | Video                                                                 |
+|-------|-----------------------------------------------|------------------------------------|---------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------|
+| 08/17 | [Intro](.)                                    |                                    |                                       |               | [miro](https://miro.com/app/board/o9J_knKraI4=/)     |                                                                       |
+| 08/19 | [Data](./notes/2020-08-19.pdf)                |                                    |                                       | DM Ch 1.1     | [miro](https://miro.com/app/board/o9J_knQ3mn0=/)     | [1](https://montana.box.com/s/y6rghuqtjou1s2pwpjz0c7dck5vj890c) of 1  |
+| 08/21 | [Sim, LA Review](./notes/2020-08-21.pdf)      |                                    |                                       | DM Ch 1.2     | [miro](https://miro.com/app/board/o9J_knfQi9s=/)     | [1](https://montana.box.com/s/sphrp4z6whjtwjbqcwm07y068lseeqco) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 08/24 | [Data: Prob View 1](./notes/2020-08-24.pdf)   |                                    |                                       | DM Ch 1.3     |                                                      | [1](https://montana.webex.com/recordingservice/sites/montana/recording/playback/423919c56f4f45ccb47b07d618cbc60a) of 1 |
+| 08/26 | [Data: Prob View 2](./notes/2020-08-26.pdf)   |                                    |                                       | DM Ch 1.4     |                                                      | [1](https://montana.box.com/s/1vy8l1q8uw3s6r68rbm638ppktrh6i0c) of 1  |
+| 08/28 | [Data: Prob View 3](./notes/2020-08-28.pdf)   | [HW 00](./hw/00.pdf)               |                                       | DM Ch 1.4     |                                                      | [1](https://montana.box.com/s/gei46ijj8y7yyg7mdydc5phdnkhkr2tc) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 08/31 | [Frequent Itemset 1](./notes/2020-08-31.pdf)  |                                    |                                       | DM Ch 8       | [miro](https://miro.com/app/board/o9J_kmCt3t8=/)     | [1](https://montana.box.com/s/zchmrs3cicmlyjn06f0yqfeoos54qror) of 1  |
+
+### Sept
+
+| Date  | Description                                   | Assigned                           | Due                                   | Reading       | Links                                                | Video                                                                 |
+|-------|-----------------------------------------------|------------------------------------|---------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------|
+| 09/02 | [Frequent Itemset 2](./notes/2020-09-02.pdf)  |                                    |                                       | DM Ch 8       |                                                      | [1](https://montana.box.com/s/pcws63ecnqxfhtjrf5h2qrnrvr827132) of 1  |
+| 09/04 | [Rule Mining](./notes/2020-09-04.pdf)         |                                    | [HW 00](./hw/00.pdf)                  | DM Ch 8       |                                                      | [1](https://montana.box.com/s/uhylk6opivczzk3boekv5slciqnh5utu) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 09/07 | NO CLASS (Labor Day)                          |                                    |                                       |               |                                                      |                                                                       |
+| 09/09 | [Rule Assessment](./notes/2020-09-09.pdf)     |                                    |                                       | DM Ch 8       |                                                      | [1](https://montana.box.com/s/iuo08j24lh98roc0knew9jbnbosjg68j) of 1  |
+| 09/11 | [Assessment (cont)](./notes/2020-09-11.pdf)   | [HW 01](./hw/01.md)                |                                       | DM Ch 8       |                                                      | [1](https://montana.box.com/s/xh6ob9xp580l9xvbign1qq5ndcqrrkeh) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 09/14 | [Recommender Systems](./notes/2020-09-14.pdf) |                                    |                                       | MoMD Ch 6     |                                                      | [1](https://montana.box.com/s/lavurxagxwz27tjh4s7j827tnnkoway8) of 1  |
+| 09/16 | [Content Based](./notes/2020-09-16.pdf)       |                                    |                                       | MoMD Ch 6     |                                                      | [1](https://montana.box.com/s/zkwkfquqgun3b4cbi4pmjfi6hrkquz6f) of 1  |
+| 09/18 | [Collab Filtering](./notes/2020-09-18.pdf)    |                                    |                                       | MoMD Ch 6     |                                                      | [1](https://montana.box.com/s/he3cyqath8ul9vrxf96eoc47li1byslv) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 09/21 | [Rep Clust](./notes/2020-09-21.pdf)           |                                    | [HW 01](./hw/01.md)                   | DM Ch 13      |                                                      | [1](https://montana.box.com/s/3xx44y0rfq9y9uvl9e15lcwl6aok0m2j) of 1  |
+| 09/23 | [_k_Means & Hier Clust](notes/2020-09-21.pdf) |                                    |                                       | DM Ch 13      |                                                      | [1](https://montana.box.com/s/6uu04b9y1kc7afpag2boq43x6wam8cip) of 1  |
+| 09/25 | [Hier Clust](./notes/2020-09-25.pdf)          |                                    |                                       | DM Ch 14      |                                                      | [1](https://montana.box.com/s/c4145w0xllmt8as9bawtyrmqnqqrg6tn) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 09/28 | [Density Clust](./notes/2020-09-28.pdf)       |                                    |                                       | DM Ch 15      |                                                      | [1](https://montana.box.com/s/stygayipigutv3pww6i0ow2u51s7lid2) of 1  |
+| 09/30 | [DB Scan](./notes/2020-09-30.pdf)             |                                    |                                       | DM Ch 15      |                                                      | [1](https://montana.box.com/s/1nnzmdiayeh3rcpedcg6u9sl53p3chsu) of 1  |
+
+### Oct
+
+| Date  | Description                                   | Assigned                           | Due                                   | Reading       | Links                                                | Video                                                                 |
+|-------|-----------------------------------------------|------------------------------------|---------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------|
+| 10/02 | [Cluster assess pt 1](./notes/2020-10-02.pdf) |                                    |                                       | DM Ch 17      |                                                      | [1](https://montana.box.com/s/jhzeeyeu9nyntyjdzc5o3k09z7bftxdd) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 10/05 | [Cluster assess pt 2](./notes/2020-10-05.pdf) | [HW 02](./hw/02.md)                |                                       | DM Ch 17      |                                                      | [1](https://montana.box.com/s/q3y0p241uh1loc1eyy72q0lis7ym2hla) of 1  |
+| 10/07 | [Classification Tasks](./notes/2020-10-07.pdf)|                                    |                                       | DM Ch 22      |                                                      | [1](https://montana.box.com/s/mache8st9hw1a4xmvg4umm5lsrr43z3d) of 1  |
+| 10/09 | [Decision Trees pt 1](./notes/2020-10-09.pdf) |                                    |                                       | DM Ch 22      |                                                      | [1](https://montana.box.com/s/dmb53vg56ozmrtmlzu4xezrkdyv4rp2u) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 10/12 | [Decision Trees pt 2](./notes/2020-10-12.pdf) |                                    |                                       | DM Ch 22      |                                                      | [1](https://montana.box.com/s/7m2h8a5306xdwyi5qrd3btmr09k09hvp) of 1  |
+| 10/14 | [k-Nearest Neighbors](./notes/2020-10-14.pdf) |                                    |                                       | DM Ch 22      |                                                      | [1](https://montana.box.com/s/z35cznx0i5if3em0gwpkniyvmn68hoda) of 1  |
+| 10/16 | [Classify assess pt 1](./notes/2020-10-16.pdf)|                                    |                                       | DM Ch 22      |                                                      | [1](https://montana.box.com/s/y3h7mpov2vrivt96gmf6ecymqdgmwkun) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 10/19 | [Classify assess pt 2](./notes/2020-10-19.pdf)|                                    | [HW 02](./hw/02.md)                   | DM Ch 22      |                                                      | [1](https://montana.box.com/s/6mp8orhx68htl1ak1twf3hf3z585vmwb) of 1  |
+| 10/21 | [Compare classifiers](./notes/2020-10-21.pdf) |                                    |                                       | DM Ch 22      |                                                      | [1](https://montana.box.com/s/elly0j3hzew9e8dh7395smallrpadryu) of 1  |
+| 10/23 | [Dim reduction into](./notes/2020-10-23.pdf)  |                                    |                                       | DM Ch 7       |                                                      | [1](https://montana.box.com/s/2t1ekcqonncwsq4ujwub88jlyk6gecsh) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 10/26 | NO CLASS - TECHNICAL ISSUES                   |                                    |                                       |               |                                                      |                                                                       |
+| 10/28 | Proj, Presentation, Hw 3                      | [HW 03](./hw/03.md)                |                                       |               |                                                      | [1](https://montana.box.com/s/59mubqayfs4q49qjg79rihntqsy2t60z) of 1  |
+| 10/30 | [Projections](./notes/2020-10-30.pdf)         |                                    | [Present](./hw/present.md)            | DM Ch 7       |                                                      | [1](https://montana.box.com/s/5lazon9ls2bmhm1tgzvyx1va0wu1ess3) of 1  |
 
 
+### Nov
+
+| Date  | Description                                   | Assigned                           | Due                                   | Reading       | Links                                                | Video                                                                 |
+|-------|-----------------------------------------------|------------------------------------|---------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------|
+| 11/02 | [PCA Pt 1](./notes/2020-11-02.pdf)            |                                    | [Proj](./hw/proj.md)                  | DM Ch 7       |                                                      | [1](https://montana.box.com/s/fwgi3yyiah7pan3oir39oqocb9uss8b2) of 1  |
+| 11/04 | [PCA Pt 2](./notes/2020-11-04.pdf)            |                                    |                                       | DM Ch 7       |                                                      | [1](https://montana.box.com/s/v024vigqpc26ayivwha9k58hjksulnq7) of 1  |
+| 11/06 | [Graph Data](./notes/2020-11-06.pdf)          |                                    | [Proj](./hw/proj.md)                  | DM Ch 4       |                                                      | [1](https://montana.box.com/s/3t7idho50hmc13ses8wncndd2nso7lgu) of 1  |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/09 | [Centrality](./notes/2020-11-10.pdf)          |                                    | [HW 03](./hw/03.md)                   | DM Ch 4       |                                                      | [1](https://montana.box.com/s/wervutu5213zo979itqdmj2mtajcct9j) of 1  |
+| 11/11 | NO CLASS (Veteran's Day)                      |                                    |                                       |               |                                                      |                                                                       |
+| 11/13 |                                               |                                    |                                       |               |                                                      |                                                                       |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/16 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/18 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/20 |                                               |                                    |                                       |               |                                                      |                                                                       |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/23 |                                               |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
 
 ### (Potential) Upcoming Topics:
 
-- data types dist, similarity, LA & Stats
-- Frequent itemset
-- Recommender systems
-- classification
-- clustering
 - topological data analysis
-- dim reduction
 - data viz
 - differential privacy / ethics
 - compressed sensing
@@ -112,7 +181,7 @@ in class.
 
 Your grade for this class will be determined by:
 
-* 10% Quizzes (lowest quiz is dropped)
+* ~~10% Quizzes (lowest quiz is dropped)~~ (Removed due to technical constraints)
 * 50% Homework (lowest homework is dropped)
 * 15% [Group Presentation](./hw/present.md)
 * 25% [Group Project](./hw/proj.md)
